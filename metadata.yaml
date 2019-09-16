@@ -5,6 +5,9 @@ contributor:
     agent_name: Martignetti, Pasquale
     gutenberg_agent_id: '50879'
     url: http://www.gutenberg.org/2009/agents/50879
+covers:
+- cover_type: archival
+  image_path: 60281-h/images/cover.jpg
 creator:
   author:
     agent_name: Engels, Friedrich
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47
     wikipedia: http://en.wikipedia.org/wiki/Friedrich_Engels
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60281#L-origine-della-Famiglia-della-Proprieta-privata-e-dello-Stato-in-relazione-alle-ricerche-di-_
 gutenberg_issued: '2019-09-11'
 gutenberg_type: Text
 identifiers:
